@@ -1,0 +1,22 @@
+# Personal learning records
+/算法学习档案.md
+/USACO铜组学习路线.md
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Generated outputs and OS files
+*.out
+Thumbs.db
+.DS_Store
